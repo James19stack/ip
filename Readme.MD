@@ -16,4 +16,5 @@ Address:90 Kikuyu
 ### License
 *MIT License*
 Copyright (c) {2020} **James Mirara**
-#### Here is a link to the website  
+#### Here is a link to the website 
+ https://james19stack.github.io/ip/git  
