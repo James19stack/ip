@@ -1,0 +1,19 @@
+  h1 {
+    text-align: center;
+    color: aqua;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: italic;
+  }
+
+  .test-box {
+        border-right: 2px solid blue;
+        border-left: 4px solid red;
+        border-top: 6px solid orange;
+        border-bottom: 8px solid black;
+        padding: 6px;
+        margin: 20px;
+        background-color: white;
+  }

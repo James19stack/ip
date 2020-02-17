@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+h1 {
+    color: blueviolet;
+    text-align: italic;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: italic;
+    color: blue;
+  }
